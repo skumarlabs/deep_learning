@@ -1,0 +1,7 @@
+predict_disease_HE/.vscode/*
+predict_disease_HE/.ipynb_checkpoints/*
+predict_disease_HE/data/*
+predict_disease_HE/model/*
+predict_disease_HE/logs/*
+predict_disease_HE/*.csv
+predict_disease_HE/*.jpg
